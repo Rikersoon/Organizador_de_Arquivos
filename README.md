@@ -43,3 +43,16 @@ FILE_CATEGORIES = {
 - Arquivos ocultos (começando com `.`) são ignorados
 - Se ocorrer erro ao mover um arquivo, ele não será processado
 
+## Imagens Funcionamento
+
+Antes da execução
+<img width="1486" height="790" alt="image" src="https://github.com/user-attachments/assets/6e9032e8-bc0c-4bc1-b9c5-b0fe066b04af" />
+
+Despois da execução
+
+<img width="1486" height="790" alt="depois" src="https://github.com/user-attachments/assets/cdd65238-2b4a-48cd-920e-9a9c3c5ec5f0" />
+
+Programa
+
+<img width="846" height="752" alt="foto2" src="https://github.com/user-attachments/assets/bbc2b0fb-a074-402d-9641-89800bbddeb6" />
+
